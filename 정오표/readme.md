@@ -40,3 +40,7 @@ load_ablone_dataset() → load_abalone_dataset()
 ## 96쪽 글상자 4째 줄
 발견자: 코난아카데미<br/>
 g(x)=1+e<sup>x</sup> → g(x)=1+e<sup>-x</sup>
+
+## 277쪽 3번째 수식 오른쪽
+발견자: 서종우<br/>
+dy<sub>k,i,j,ym</sub>x<sub>k,r-i+bh,c-j+bw,xm</sub> → dy<sub>k,i,j,ym</sub>x<sub>k,r+i-bh,c+j-bw,xm</sub>
