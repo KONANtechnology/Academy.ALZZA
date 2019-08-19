@@ -26,7 +26,7 @@ Train.zip 파일의 압축을 다시 풀면 Train.csv 파일과 Train 폴더가 
 이제 'tar xvzf Train.tar.gz' 명령 등을 이용해 압축을 풀면 Train 폴더 안에 다양한 도시소음 파일들이 만들어집니다.
 도시소음 레이블링 정보는 Train.csv 파일 안에 있기 때문에 Train 폴더는 서브폴더 없이 모든 음원 파일을 직접 갖는 구조입니다.<br/>
 실험을 위해서는 Train.csv 파일과 Train 폴더가 /data/chap11/urban-sound 폴더 밑에 위치하도록 압축 파일 해제 위치를 지정해야 합니다.<br/><br/>
-한편 Train.tar.gz 파일 대신 Train.10-100.cache.gz 파일과 Train.10-100.cache.gz 파일을 다운로드받아 이용하면
+한편 Train.tar.gz 파일 대신 Train.10-10.cache.gz 파일과 Train.10-100.cache.gz 파일을 다운로드받아 이용하면
 다음 단락에서 설명하는 캐시 생성 단계를 생략한 채 곧바로 미리 만들어진 캐시 파일을 이용할 수 있게 됩니다.
 실험의 전 과정을 볼 수 없는 대신 다운로드 시간과 실행 시간을 줄일 수 있으니 참고 바랍니다.
 
@@ -39,4 +39,8 @@ Train.zip 파일의 압축을 다시 풀면 Train.csv 파일과 Train 폴더가 
 
 ## 11장에서 이용하는 데이터 파일
 /data/chap11/urban-sound/Train.csv : 총 1 파일, 94KB<br/>
-/data/chap11/urban-sound/Train/\*.wav : 총 5345 파일, 4.0GB<br/>
+/data/chap11/urban-sound/Train/\*.wav : 총 5345 파일, 4.0GB<br/><br/>
+또는<br/><br/>
+/data/chap11/urban-sound/Train.csv : 총 1 파일, 94KB<br/>
+/data/chap11/urban-sound/Train10-10.cache : 총 1 파일, 819MB<br/>
+/data/chap11/urban-sound/Train10-100.cache : 총 1 파일, 800MB<br/><br/>
