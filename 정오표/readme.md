@@ -44,6 +44,16 @@ abablone_exec() → abalone_exec()
 등록일: 2019.7.28<br/>
 load_ablone_dataset() → load_abalone_dataset()
 
+## 78쪽 3째 줄
+발견자: 류기윤<br/>
+등록일: 2019.8.22<br/>
+순전파 첫 단계인 backprop_neuralnet() 함수가 → backprop_neuralnet() 함수가
+
+## 104쪽 글상자 안의 수식들
+발견자: 류기윤<br/>
+등록일: 2019.8.22<br/>
+수식 두 번째 줄부터 4번째 줄까지 사이에 나타난 5개의 e<sup>-z</sup> → e<sup>-x</sup>
+
 ## 94쪽 그림 오른쪽 맨 아래 말풍선
 발견자: 박범진<br/>
 등록일: 2019.7.31<br/>
