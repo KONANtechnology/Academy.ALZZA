@@ -49,6 +49,11 @@ load_ablone_dataset() → load_abalone_dataset()
 등록일: 2019.8.22<br/>
 순전파 첫 단계인 backprop_neuralnet() 함수가 → backprop_neuralnet() 함수가
 
+## 78쪽 1.10.9절 첫 줄
+발견자: 이인혁<br/>
+등록일: 2019.8.29<br/>
+신경만 → 신경망
+
 ## 104쪽 글상자 안의 수식들
 발견자: 류기윤<br/>
 등록일: 2019.8.22<br/>
