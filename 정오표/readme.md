@@ -79,6 +79,11 @@ g(x)=1+e<sup>x</sup> → g(x)=1+e<sup>-x</sup>
 등록일: 2019.8.22<br/>
 수식 두 번째 줄부터 4번째 줄까지 사이에 나타난 5개의 e<sup>-z</sup> → e<sup>-x</sup>
 
+## 162쪽 코드상자 9째 줄
+발견자: 이인혁<br/>
+등록일: 2019.9.17<br/>
+def backprop_neuralnet(G_output, x, learning_rate) → def backprop_neuralnet(G_output, x)
+
 ## 277쪽 3번째 수식 오른쪽
 발견자: 서종우<br/>
 등록일: 2019.8.7<br/>
