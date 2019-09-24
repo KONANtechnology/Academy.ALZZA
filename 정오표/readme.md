@@ -84,6 +84,16 @@ g(x)=1+e<sup>x</sup> → g(x)=1+e<sup>-x</sup>
 등록일: 2019.9.17<br/>
 def backprop_neuralnet(G_output, x, learning_rate) → def backprop_neuralnet(G_output, x)
 
+## 191쪽 코드상자 아래 본문 첫째 줄
+발견자: 이인혁<br/>
+등록일: 2019.9.24<br/>
+exec_all() 메서드가  → 객체 초기화 메서드 __init__()가
+
+## 191쪽 코드상자 아래 본문 3째 줄
+발견자: 이인혁<br/>
+등록일: 2019.9.24<br/>
+init_model 함수와 → init_model_hiddens() 함수와
+
 ## 277쪽 3번째 수식 오른쪽
 발견자: 서종우<br/>
 등록일: 2019.8.7<br/>
