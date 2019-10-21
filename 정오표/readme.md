@@ -183,7 +183,7 @@
 ## 351쪽 8.9.2 코드블록 위 줄
 발견자: 윤덕호<br/>
 등록일: 2019.10.14<br/>
-내용: cnn_basic_test.ipynb → cnn_reg_test.ipynb<br/>
+내용: chap07/cnn_basic_test.ipynb → chap08/cnn_reg_test.ipynb<br/>
 반영: 미반영
 
 ## 368쪽 9.2.1절 본문 1째 줄
