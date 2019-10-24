@@ -210,6 +210,12 @@
 내용: CnnExtModel.set_macro('residual_chain', → CnnExtModel.set_macro('residual',<br/>
 반영: 미반영
 
+## 456쪽 10.5절 본문 첫째 줄
+발견자: 윤덕호<br/>
+등록일: 2019.10.24<br/>
+내용: 이 절에서는 → 이 장에서는<br/>
+반영: 미반영
+
 ## 692쪽 오른쪽 하단
 발견자: 윤덕호<br/>
 등록일: 2019.10.4<br/>
